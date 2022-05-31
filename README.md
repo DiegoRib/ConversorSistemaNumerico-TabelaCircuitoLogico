@@ -4,7 +4,7 @@ Esse excel realiza a conversão entre sistemas numéricos, além de possuir uma 
 # Conversor de Sistemas Numéricos:
 
 ### *Tabela Hexadecimal*</br>
-![image](https://user-images.githubusercontent.com/49617142/171096052-343405bb-a77e-40ee-b640-83ed8fd90bf2.png)
+![image](https://user-images.githubusercontent.com/49617142/171097156-979980b2-84cc-437d-90fe-0ce6984e32f4.png)
 
 ### *Conversor Método Escadinha*</br>
 ![image](https://user-images.githubusercontent.com/49617142/171096154-9c4ae4ca-e211-4b20-a99f-26f26c3c5a4a.png)
