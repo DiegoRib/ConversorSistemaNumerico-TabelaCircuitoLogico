@@ -3,7 +3,7 @@ Esse excel realiza a conversão entre sistemas numéricos, além de possuir uma 
 
 # Conversor de Sistemas Numéricos:
 
-### *Tabela Hexadecimal*</br>
+### *Tabela Hexadecimal (Hexadecimal para Binario | Binario para Hexadecimal)*</br>
 ![image](https://user-images.githubusercontent.com/49617142/171097156-979980b2-84cc-437d-90fe-0ce6984e32f4.png)
 
 ### *Conversor Método Escadinha*</br>
